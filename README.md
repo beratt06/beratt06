@@ -1,9 +1,6 @@
 [![MasterHead](https://www.unite.ai/wp-content/uploads/2022/11/ai-video-generators-1000x600.png)
 <h1 align="center">Hi 👋, I'm Berat Çam</h1>
 <h3 align="center">A passionate Artificial İntelligent from Turkey</h3>
-
-- 🔭 I’m currently working on **Artificial İntelligent**
-
 - 🌱 I’m currently learning **Cyber Security And Artificial İntelligent**
 
 - 💬 Ask me about **NLP**
