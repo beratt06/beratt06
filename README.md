@@ -21,7 +21,6 @@ Ben bir Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Yapay Zeka (özelli
 
 - 🛠 **Şu Anda Ne Üzerinde Çalışıyorum:** TEKNOFEST için **RAG (Retrieval-Augmented Generation)** mimarisi ve Few-Shot Prompting tekniklerini kullanarak LLM tabanlı çözümler geliştiriyorum.
 - 🛡 **Siber Güvenlik:** CTF birinciliği derecem ile Web Güvenliği ve Pentest konularında kendimi geliştirmeye devam ediyorum.
-- 💼 **Deneyim:** Bursa Uludağ Üniversitesi Kariyer Merkezi'nde web geliştirme ve sistem güvenliği süreçlerine katkı sağlıyorum.
 
 ---
 
@@ -32,7 +31,7 @@ Ben bir Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Yapay Zeka (özelli
 | **Diller** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
 | **Yapay Zeka** | `NLP`, `RAG Architecture`, `LLMs`, `Transformers`, `Few-shot Learning` |
 | **Siber Güvenlik** | `Web Security`, `Pentesting`, `Linux Hardening`, `Exploit Development` |
-| **Web & Diğer** | `Full-stack Development`, `Linux`, `Git/GitHub`, `Photoshop` |
+| **Web & Diğer** | , `Linux`, `Git/GitHub`|
 
 ---
 
@@ -50,6 +49,3 @@ Yeni fikirler, projeler veya sadece teknik sohbetler için bana ulaşabilirsiniz
 - 💬 **Soru Sorabilirsiniz:** NLP, RAG mimarileri, Web Güvenliği, Linux.
 - 📧 **E-posta:** [beratcamm0606@gmail.com](mailto:beratcamm0606@gmail.com)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=beratt06&label=Profil%20Görüntüleme&color=blue&style=flat" alt="vizit_counter" />
-</div>
