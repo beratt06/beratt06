@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=beratt06&theme=radical&column=7" alt="beratt06" />
-  
-  <h1>👋 Selamlar, Ben Berat Çam</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Merhaba%2C+Ben+Berat+%C3%87am;AI+%26+NLP+Researcher;Cybersecurity+Enthusiast;Computer+Engineering+Student" alt="Typing SVG" />
+
   <p align="center">
     <strong>Computer Engineering Student | AI & NLP Researcher | Cybersecurity Enthusiast</strong>
   </p>
@@ -23,7 +22,6 @@ Ben bir Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Yapay Zeka (özelli
 - 🛠 **Şu Anda Ne Üzerinde Çalışıyorum:** TEKNOFEST için **RAG (Retrieval-Augmented Generation)** mimarisi ve Few-Shot Prompting tekniklerini kullanarak LLM tabanlı çözümler geliştiriyorum.
 - 🛡 **Siber Güvenlik:** CTF birinciliği derecem ile Web Güvenliği ve Pentest konularında kendimi geliştirmeye devam ediyorum.
 - 💼 **Deneyim:** Bursa Uludağ Üniversitesi Kariyer Merkezi'nde web geliştirme ve sistem güvenliği süreçlerine katkı sağlıyorum.
-- 🧪 **Proje:** **TEMREN** projesi ile AI destekli siber güvenlik çözümleri üzerine TÜBİTAK odaklı çalışmalar yürütüyorum.
 
 ---
 
@@ -31,7 +29,7 @@ Ben bir Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Yapay Zeka (özelli
 
 | Alan | Teknolojiler & Araçlar |
 | :--- | :--- |
-| **Diller** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) |
+| **Diller** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
 | **Yapay Zeka** | `NLP`, `RAG Architecture`, `LLMs`, `Transformers`, `Few-shot Learning` |
 | **Siber Güvenlik** | `Web Security`, `Pentesting`, `Linux Hardening`, `Exploit Development` |
 | **Web & Diğer** | `Full-stack Development`, `Linux`, `Git/GitHub`, `Photoshop` |
@@ -41,12 +39,12 @@ Ben bir Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Yapay Zeka (özelli
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=beratt06&show_icons=true&locale=en&layout=compact&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=beratt06&show_icons=true&locale=en&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=beratt06&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=beratt06&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beratt06&theme=radical" alt="beratt06" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beratt06&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
