@@ -38,14 +38,13 @@ Ben bir Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Yapay Zeka (özelli
 
 ### 📊 GitHub İstatistiklerim
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=beratt06&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=beratt06&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
+| En Çok Kullandığım Diller | GitHub Genel İstatistikleri |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beratt06&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Langs" /> | <img src="https://github-readme-stats.vercel.app/api?username=beratt06&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" /> |
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beratt06&theme=radical" alt="Streak Stats" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=beratt06&theme=radical&hide_border=true" alt="Streak Stats" />
+</div>
 
 ---
 
