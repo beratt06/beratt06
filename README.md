@@ -1,9 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Merhaba%2C+Ben+Berat+%C3%87am;AI+%26+NLP+Researcher;Cybersecurity+Enthusiast;Computer+Engineering+Student" alt="Typing SVG" />
-
-  <p align="center">
-    <strong>Computer Engineering Student | AI & NLP Researcher | Cybersecurity Enthusiast</strong>
-  </p>
+  <h1>👋 Merhaba, Ben Berat Çam</h1>
+  <h3>Computer Engineering Student 🚀 AI & NLP Researcher 🛡️ Cybersecurity Enthusiast</h3>
 
   <p align="center">
     <a href="https://linkedin.com/in/beratcam" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -39,12 +36,12 @@ Ben bir Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Yapay Zeka (özelli
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=beratt06&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=beratt06&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beratt06&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="beratt06" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=beratt06&show_icons=true&locale=en&theme=radical&hide_border=true" alt="beratt06" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beratt06&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beratt06&theme=radical&hide_border=true" alt="beratt06" />
 </p>
 
 ---
