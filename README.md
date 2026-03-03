@@ -29,7 +29,7 @@ Ben bir Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Yapay Zeka (özelli
 | **Diller** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
 | **Yapay Zeka** | `NLP`, `RAG Architecture`, `LLMs`, `Transformers`, `Few-shot Learning` |
 | **Siber Güvenlik** | `Web Security`, `Pentesting`, `Linux Hardening`, `Exploit Development` |
-| **Web & Diğer** | , `Linux`, `Git/GitHub`|
+| **Web & Diğer** | `Linux`, `Git/GitHub`|
 
 ---
 
